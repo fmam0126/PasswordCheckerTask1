@@ -1,4 +1,4 @@
-# Password Checker
+# Password Checker Program
 
 ![alt text](PseudoCode.png)
 
