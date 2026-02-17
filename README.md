@@ -1,10 +1,10 @@
-# Password Checker Task.
+# Password Checker
 
 ![alt text](PseudoCode.png)
 
 ### A simple password checker that checks if a password is strong or not.
 
-Tested with: 
+Tested with: <br>
 pass  - BAD password - <u>must</u> be more than 8 characters <br>
 password  - BAD password - <u>must</u> be more than 8 characters <br>
 passwords  - OK password - more than 8 characters <br>
